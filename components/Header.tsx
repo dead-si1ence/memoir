@@ -2,7 +2,6 @@ import Link from "next/link";
 import React from "react";
 
 import { ModeToggle } from "@/components/ModeToggle";
-import { Button } from "./ui/button";
 
 const Header = () => {
   return (
